@@ -1,4 +1,4 @@
-# 🩺 Diabetes Prediction - Exploratory Data Analysis with Apache Spark 
+# 🩺 Diabetes Prediction - Exploratory Data Analysis with Apache SparK
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
